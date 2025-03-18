@@ -26,21 +26,28 @@
 🛠️ Tools & Techniques Used:
 
 Power BI – For creating interactive visualizations and reports
+
 DAX – For calculating metrics (YoY Growth, Average Listening Time, etc.)
+
 Data Cleaning – Handled missing data, duplicates, and formatting issues using Power Query
+
 Hierarchies & Drill Features – Enabled drill-through and drill-down for deeper insights
 
 
 📂 Structure:
 
 📁 Data/ – Contains sample Spotify listening data
+
 📁 Reports/ – Power BI report files and screenshots
+
 📁 Documentation/ – Project explanation and insights
 
 
 🚀 Insights:
 
 Identified peak listening hours during weekends and evenings
+
 Top 5% of tracks accounted for over 60% of listening activity
+
 Detected consistent YoY growth in listening activity
 
