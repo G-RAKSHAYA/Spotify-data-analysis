@@ -51,3 +51,10 @@ Top 5% of tracks accounted for over 60% of listening activity
 
 Detected consistent YoY growth in listening activity
 
+![spotify (#1) ](https://github.com/user-attachments/assets/54f5e7a3-cbc3-417c-9998-378191325077)
+![Spotify ( Listening Pattern)](https://github.com/user-attachments/assets/0e154184-56e9-4b19-a130-c43b78810018)
+![spotify (details)](https://github.com/user-attachments/assets/998163b7-864d-47c6-b785-b18f9a9249d0)
+
+
+
+
