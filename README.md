@@ -4,14 +4,23 @@
 🔍 Key Features:
 
 ✅ Total Albums Played Over Time – Tracks how the number of albums played changes over time.
+
 ✅ Number of Albums Listened by Year – Displays the minimum and maximum number of albums listened to each year.
+
 ✅ Albums Played on Weekday & Weekend – Identifies listening patterns based on day type.
+
 ✅ Top 5 Albums, Artists, and Tracks – Highlights the most frequently played content.
+
 ✅ Year-over-Year (YoY) Growth – Compares listening activity between the latest and previous years.
+
 ✅ Listening Hours Heatmap – Visualizes listening behavior across different hours and days.
+
 ✅ Average Listening Time vs Track Frequency – Uses a scatter plot with quadrant analysis to identify patterns.
+
 ✅ Grid View – Displays key fields (Album, Artist, Track) with interactive sorting and filtering.
+
 ✅ Drill Through & Drill Down – Allows deeper insights into specific artists or tracks.
+
 ✅ CSV Export – Enables exporting of report data for further analysis.
 
 🛠️ Tools & Techniques Used:
